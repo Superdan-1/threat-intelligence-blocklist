@@ -18,7 +18,7 @@ Do not visit these domains in your web browser unless you fully understand and a
 
 ### Pi-Hole 
 
-To add the block list to your P-Hole access the 'Adlists' menu from the Pi-Hole's administrative web interface.  Paste the URL ( ) into the address and click the 'Add' button.  To fetch the latest blocklist access the 'Update Gravity' submenu from within 'Tools'. Click the 'Update' button.  It is recommended you periodically click this button to fetch the latest blocklist. 
+To add the block list to your P-Hole access the 'Adlists' menu from the Pi-Hole's administrative web interface.  Paste the URL ```https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains``` into the address text field and click the 'Add' button.  To fetch the latest blocklist access the 'Update Gravity' submenu from within 'Tools'. Click the 'Update' button.  It is recommended you periodically click this button to fetch the latest blocklist. 
 
 ### Windows Host File 
 
