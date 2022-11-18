@@ -1,0 +1,248 @@
+#     _______ _                    _     _____       _       _ _ _                             ____  _            _      _      _     _   
+#    |__   __| |                  | |   |_   _|     | |     | | (_)                           |  _ \| |          | |    | |    (_)   | |  
+#       | |  | |__  _ __ ___  __ _| |_    | |  _ __ | |_ ___| | |_  __ _  ___ _ __   ___ ___  | |_) | | ___   ___| | __ | |     _ ___| |_ 
+#       | |  | '_ \| '__/ _ \/ _` | __|   | | | '_ \| __/ _ \ | | |/ _` |/ _ \ '_ \ / __/ _ \ |  _ <| |/ _ \ / __| |/ / | |    | / __| __|
+#       | |  | | | | | |  __/ (_| | |_   _| |_| | | | ||  __/ | | | (_| |  __/ | | | (_|  __/ | |_) | | (_) | (__|   <  | |____| \__ \ |_ 
+#       |_|  |_| |_|_|  \___|\__,_|\__| |_____|_| |_|\__\___|_|_|_|\__, |\___|_| |_|\___\___| |____/|_|\___/ \___|_|\_\ |______|_|___/\__|
+#                                                                   __/ |                                                                 
+#                                                                  |___/       
+#                                                                 
+#                                                                   TLP:CLEAR
+#
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• WARNING •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+# The domains within this block list are malicious and may host remote access trojans (RAT), ransomware, or other malicious software which could 
+# infect your computer or home network. Many of these domains are associated with organised criminal groups or Advanced Persistent Threats (APT). 
+# Do not visit these domains in your web browser unless you fully understand and accept the risk! 
+
+# •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+# Description: The threat intelligence block list is a list of domains gathered from open-source reporting that have been identified as being 
+associated with malicious activity. This list is intended to be used with DNS sinkhole technologies such as a Pi-Hole or a computers HOSTS file.
+
+# Author: Daniel Braund
+
+# Last Updated: 18th November 2022
+
+# The latest version of this list may be fetched from:  
+
+# To test the block list is working as intended visit 'https://www.example.com' a non-malicious and harmless domain that should be blocked by this list. 
+
+0.0.0.0   example.com
+
+# **********************************************************************************************************************************************
+
+# BatLoader
+0.0.0.0   updatea1.com
+0.0.0.0   externalchecksso.com
+0.0.0.0   cloudupdatesss.com
+0.0.0.0   teenieshopus.com
+0.0.0.0   liversofter.com
+# Black Basta
+0.0.0.0   groundworkseasy.com
+0.0.0.0   purestealconstruction.com
+0.0.0.0   widisusez.com
+0.0.0.0   jardinoks.com
+0.0.0.0   courtlincolnglave.com
+# Bumble Bee
+0.0.0.0   fuvataren.com
+0.0.0.0   cevogesu.com
+0.0.0.0   titojukus.com
+# Crimson Kingsnake 
+0.0.0.0   activedebtrecoveryeo.com
+0.0.0.0   allanovarry.com
+0.0.0.0   allen-overylaw.com
+0.0.0.0   allenovanys.com
+0.0.0.0   allenoverry.com
+0.0.0.0   allenoverys.com
+0.0.0.0   backupofficeworks.com
+0.0.0.0   chancllflaw.com
+0.0.0.0   chncllflegal.com
+0.0.0.0   clfchnnukllp.com
+0.0.0.0   clfpchnlp.com
+0.0.0.0   cliff-chancellfp.com
+0.0.0.0   cliffchancelegal.com
+0.0.0.0   cliffchnclegal.com
+0.0.0.0   cliffchnllp.com
+0.0.0.0   clifford-chancelaw.com
+0.0.0.0   clifford-chancellegal.com
+0.0.0.0   clifford-chancellp.com
+0.0.0.0   cliffordchance-llp.com
+0.0.0.0   cliffordclaims.com
+0.0.0.0   cllppchancelegal.com
+0.0.0.0   debtaget.org
+0.0.0.0   debtrecoveryeo.com
+0.0.0.0   delciolawoffice.com
+0.0.0.0   delloitesuk.com
+0.0.0.0   deloiitteslps.com
+0.0.0.0   deloitesllp.com
+0.0.0.0   deloitte-eu.org
+0.0.0.0   deloittetouch.net
+0.0.0.0   deloittetouchellp.net
+0.0.0.0   deloittetouchelp.net
+0.0.0.0   deloittetouchs.net
+0.0.0.0   dengroups.net
+0.0.0.0   dentonsfirm.com
+0.0.0.0   dentonsfirms.net
+0.0.0.0   desk-work.space
+0.0.0.0   dlapierr.com
+0.0.0.0   dlapiier.com
+0.0.0.0   dloitte.org
+0.0.0.0   eofficeipad.com
+0.0.0.0   evershads-sutharland.com
+0.0.0.0   evershed-sutharlands.com
+0.0.0.0   evershed-sutherlands.com
+0.0.0.0   herbertfreehillslaw.com
+0.0.0.0   hoganllvlpfs.com
+0.0.0.0   hoganlovellslpfs.com
+0.0.0.0   hoganlovlllp.com
+0.0.0.0   hogavells.com
+0.0.0.0   homezoffice.com
+0.0.0.0   ipad04-work.space
+0.0.0.0   ipad09email.com
+0.0.0.0   ipadepost.com
+0.0.0.0   kirklandellisfirm.com
+0.0.0.0   kirklandsglobal.com
+0.0.0.0   kirklendsglobal.com
+0.0.0.0   lindsayhartllp.com
+0.0.0.0   lindsayhlawyers.com
+0.0.0.0   lindsaylawyerllp.com
+0.0.0.0   lindsayshart.com
+0.0.0.0   lindsayslawyer.com
+0.0.0.0   makenotlon.com
+0.0.0.0   manixlawllc.com
+0.0.0.0   monlexlawllp.com
+0.0.0.0   morrisonfoersterlaw.net
+0.0.0.0   myipadpro.us
+0.0.0.0   office1-desk.com
+0.0.0.0   office1-mail.com
+0.0.0.0   quinamenual.com
+0.0.0.0   rfglonline.com
+0.0.0.0   simmonslegalhq.com
+0.0.0.0   suilivancromwell.com
+0.0.0.0   sulivamcromwell.com
+0.0.0.0   sulivancromwell.com
+0.0.0.0   sullcromwell.com
+0.0.0.0   sullcromwelllaws.com
+0.0.0.0   sullcromwells.com
+0.0.0.0   sullivacromwell.com
+0.0.0.0   sullivamcromwell.com
+0.0.0.0   sullivamncromwell.com
+0.0.0.0   sullivancrom.com
+0.0.0.0   sullivancromllp.com
+0.0.0.0   sullivancrommwell.com
+0.0.0.0   sullivancromw.com
+0.0.0.0   sullivancromweill.com
+0.0.0.0   sullivancromwellaw.com
+0.0.0.0   sullivancromwelli.com
+0.0.0.0   sullivancromwelllp.com
+0.0.0.0   sullivancromwells.com
+0.0.0.0   sullivancromwwell.com
+0.0.0.0   sullivancronwell.com
+0.0.0.0   sullivancrowell.com
+0.0.0.0   sullivanmcromwell.com
+0.0.0.0   sullivcrom.com
+0.0.0.0   sullivcromwell.com
+0.0.0.0   sullvancromwell.com
+0.0.0.0   sutharlands-evershards.com
+0.0.0.0   whitecaselp.com
+0.0.0.0   whitecaseukp.com
+0.0.0.0   whitescases.net
+0.0.0.0   whitneasellp.co
+# DTrack 
+0.0.0.0   pinkgoat.com
+0.0.0.0   purewatertokyo.com
+0.0.0.0   purplebear.com
+0.0.0.0   salmonrabbit.com
+# Earth Longzhi
+0.0.0.0   affice366.com
+0.0.0.0   vietsovspeedtest.com
+0.0.0.0   c.ymvh8w5.xyz
+# Emotet
+0.0.0.0   bayernbadabum.com
+# Hive
+0.0.0.0.  asq.r77vh0.pw
+0.0.0.0   asq.d6shiiwz.pw
+0.0.0.0   asq.swhw71un.pw
+0.0.0.0   asd.s7610rir.pw
+# IceXLoader
+0.0.0.0   filifilm.com.br
+# Iranian APT
+0.0.0.0   tunnel.us.ngrok.com
+0.0.0.0   korgn.su.lennut.com
+# Magniber
+0.0.0.0   totwo.pw
+0.0.0.0   ittakes.fun
+0.0.0.0   catat.site
+0.0.0.0   tinpick.online
+0.0.0.0   pirlay.fun
+0.0.0.0   buyaims.online
+0.0.0.0   orhung.space
+0.0.0.0   actsred.site
+# PrivateLoader
+0.0.0.0   wfsdragon.ru
+# SocGholish
+0.0.0.0   course.netpickstrading.com
+0.0.0.0   shipwrecks.ggentile.com  
+0.0.0.0   community.backpacktrader.com
+0.0.0.0   active.aasm.pro
+0.0.0.0   active.xomosagency.com
+0.0.0.0   actors.jcracing.com
+0.0.0.0   amplifier.myjesusloves.me
+0.0.0.0   baget.godmessaged.me
+0.0.0.0   cardo.diem-co.com
+0.0.0.0   casting.faeryfox.com
+0.0.0.0   cats.johnbeach.us
+0.0.0.0   center.blueoctopuspress.com
+0.0.0.0   cigars.pawscolours.com
+0.0.0.0   cloud.bncfministries.org
+0.0.0.0   common.dotviolationsremoval.com
+0.0.0.0   community.wbaperformance.com
+0.0.0.0   connect.codigodebarra.co
+0.0.0.0   cruize.updogtechnologies.com
+0.0.0.0   d2j09jsarr75l2.cloudfront.net
+0.0.0.0   design.lawrencetravelco.com
+0.0.0.0   expense.brick-house.net
+0.0.0.0   genesis.ibgenesis.org
+0.0.0.0   gohnson.advanceditsolutionsaz.com
+0.0.0.0   hares.lacyberlab.net
+0.0.0.0   havana.littlehavanacigarstore.com
+0.0.0.0   hemi.mamasbakery.net
+0.0.0.0   hope.point521.com
+0.0.0.0   hunter.libertylawaz.com
+0.0.0.0   mafia.carverdesigngroup.com
+0.0.0.0   master.ilsrecruitment.com
+0.0.0.0   mycontrol.alohaalsomeansgoodbye.com
+0.0.0.0   natural.cpawalmyrivera.com
+0.0.0.0   nivea.dreamworkscdc.com
+0.0.0.0   performer.stmhonline.com
+0.0.0.0   puzzle.tricityintranet.com
+0.0.0.0   query.dec.works
+0.0.0.0   record.usautosaleslv.com
+0.0.0.0   republic.beboldskincare.com
+0.0.0.0   rituals.fashionediter.com
+0.0.0.0   sdk.expresswayautopr.com
+0.0.0.0   second.pmservicespr.com
+0.0.0.0   stanley.planilla2021.com
+0.0.0.0   training.ren-kathybermejo.com
+0.0.0.0   vacation.thebrightgift.com
+0.0.0.0   wallpapers.uniquechoice-co.com
+0.0.0.0   wallpapers.uniquechoice-co.com
+0.0.0.0   west.bykikarose.com
+# Somnia 
+0.0.0.0   advanced-ip-scanner.click
+0.0.0.0   advanced-ip-scanner.site
+0.0.0.0   agrikoz.com
+0.0.0.0   aluaadin.com
+0.0.0.0   arminext.com
+0.0.0.0   benokij.com
+0.0.0.0   fudupdate.com 
+0.0.0.0   sinergil.com
+0.0.0.0   softloadup.com
+0.0.0.0   survefuz.com
+0.0.0.0   vinergil.com
+0.0.0.0   vuxuancuong.com
+0.0.0.0   advanced-ip-scanner.com.vuxuancuong.com
+0.0.0.0   zambeziz.com
+# Silver
+0.0.0.0   privacy-survey.org
