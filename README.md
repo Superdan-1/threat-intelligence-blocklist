@@ -35,4 +35,7 @@ To add the blocklist to a Debian based Linux distribution open a command line te
 
 <br>
 
+## To Test ✨
+
+To check that the blocklist is working as intended visit the non-malicious and harmless website ```https://example.com```.  You should be unable to visit this website. If you are able to visit this website then please revisit the steps above for the Pi-Hole or your specific operating system. 
 
