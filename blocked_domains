@@ -24,7 +24,7 @@ associated with malicious activity. This list is intended to be used with DNS si
 
 # Last Updated: 18th November 2022
 
-# The latest version of this list may be fetched from:  
+# The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
 # To test the block list is working as intended visit 'https://www.example.com' a non-malicious and harmless domain that should be blocked by this list. 
 
