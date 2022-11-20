@@ -1,0 +1,12 @@
+#fields       indicator       indicator_type        meta.source	      meta.do_notice        meta.desc         meta.url
+            89.108.65.136      Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           146.112.61.107      Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           194.67.110.215	     Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           194.67.119.190	     Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           194.135.24.245	     Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           139.60.161.74	     Intel::ADDR       VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+           updatea1.com       Intel::DOMAIN      VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+       externalchecksso.com   Intel::DOMAIN      VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+        cloudupdatesss.com    Intel::DOMAIN      VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+         teenieshopus.com     Intel::DOMAIN      VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+         liversofter.com      Intel::DOMAIN      VMWARE CARBON BLACK       F           MALWARE - BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
