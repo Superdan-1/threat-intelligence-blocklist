@@ -1,4 +1,5 @@
 #fields       indicator       indicator_type        meta.source	   meta.do_notice        meta.desc         meta.url
+9a2e0caf9a8c4693f99f3e4ed433890d346289cb83d923d9ff3ac6bed2b7d5d0    Intel::FILE_HASH     SUPERDAN-1      F   HARMLESS_TEST_FILE    https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/harmless_test_file        
 89.108.65.136           Intel::ADDR       VMWARE CARBON BLACK       F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 146.112.61.107          Intel::ADDR       VMWARE CARBON BLACK       F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 194.67.110.215          Intel::ADDR       VMWARE CARBON BLACK       F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
