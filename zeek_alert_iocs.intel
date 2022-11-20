@@ -387,4 +387,6 @@ eb8d11b63d20e3d1e164f0f25822d54a58742faa8d10ba120740e612607b5f6		   Intel::FILE_
 76998c3cef50132d7eb091555b034b03a351bd8639c1c5dc05cf1ea6c19331d9	   Intel::FILE_HASH       TREND_MICRO   F   EARTH_LONGZHI  https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html
 f8fa90be3e6295c275a4d23429e8738228b70693806ed9b2f482581487cb8e08	   Intel::FILE_HASH       TREND_MICRO   F   EARTH_LONGZHI  https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html
 90a1e3ff729b7b91ca82e7981d2c65bf6c4b8fb2204bf9394d2072d9caa70126     Intel::FILE_HASH       TREND_MICRO   F   EARTH_LONGZHI  https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html
-
+05a3a84096bcdc2a5cf87d07ede96aff7fd5037679f9585fee9a227c0d9cbf51     Intel::FILE_HASH       PROOF_POINT   F   ICEID          https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return
+99580385a4fef0ebba70134a3d0cb143ebe0946df148d84f9e43334ec506e301     Intel::FILE_HASH       PROOF_POINT   F   ICEID          https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return
+bayernbadabum.com     Intel::DOMAIN   PROOF_POINT   F   ICEID        https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return   
