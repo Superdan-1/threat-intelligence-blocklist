@@ -2,7 +2,7 @@
 
 
 ## About  ℹ️
-This block list contains domains gathered from open-source threat intelligence reporting which have been identified as being malicious. This includes domains which have been identified as being used for phishing campaigns, for hosting malware, or being used for botnets or command-and-control (C2). It is intended that this block list is used with DNS sinkholes such as the Pi-Hole though it can also be used with a computers local HOSTS file. All data within this blocked is characterised as TLP:Clear, and no domains from closed sources or commercial  threat intelligence platforms are included.  This list will be periodically updated but I can make no guarantee on how frequently this will be happen. Contributions to the block list are welcome as long as the domains are gathered from reputable sources and can be assigned to a specific threat actor group or malware variant. 
+This block list contains domains gathered from open-source threat intelligence reporting which have been identified as being malicious. This includes domains which have been identified as being used for phishing campaigns, for hosting malware, botnets, command-and-control (C2) or other malicious activity. It is intended that this block list is used with DNS sinkholes such as the Pi-Hole though it can also be used with a computers local HOSTS file. All data within this blocked is characterised as TLP:Clear and no domains from closed sources or commercial  threat intelligence platforms are included.  This list will be periodically updated but I can make no guarantee on how frequently this will be happen. Contributions to the block list are welcome as long as the domains are gathered from reputable sources and can be assigned to a specific threat actor group or malware variant. 
 
 <br>
 
@@ -38,4 +38,11 @@ To add the blocklist to a Debian based Linux distribution open a command line te
 ## To Test ✨
 
 To check that the blocklist is working as intended visit the non-malicious and harmless website ```https://example.com```.  You should be unable to visit this website. If you are able to visit this website then please revisit the steps above for the Pi-Hole or your specific operating system. 
+
+<br>
+
+# Zeek Intelligence Framework Feed
+
+The intelligence feed contains indicators of compromise (IoCs) that have been extracted from open-source reporting. The feed currently contains intelligence items covering malicious IP addressess, domains, URLs, email addresses, and file hashes. The intelligence feed is intended to be used with Zeeks Intelligence Framework and will be updated periodically though less frequently then the Threat Intelligence Blocklist. 
+
 
