@@ -1,7 +1,7 @@
-#fields       indicator       indicator_type        meta.source	   meta.do_notice        meta.desc         meta.url
-9a2e0caf9a8c4693f99f3e4ed433890d346289cb83d923d9ff3ac6bed2b7d5d0    Intel::FILE_HASH     SUPERDAN-1      F   HARMLESS_TEST_FILE    https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/harmless_test_file        
-89.108.65.136           Intel::ADDR       VMWARE_CARBON_BLACK       F          BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
-146.112.61.107          Intel::ADDR       VMWARE_CARBON_BLACK       F          BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+#fields       indicator       indicator_type        meta.source       meta.do_notice        meta.desc       meta.url
+9a2e0caf9a8c4693f99f3e4ed433890d346289cb83d923d9ff3ac6bed2b7d5d0    Intel::FILE_HASH    SUPERDAN-1    F   HARMLESS_TEST_FILE    https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/harmless_test_file        
+89.108.65.136           Intel::ADDR   VMWARE_CARBON_BLACK   F   BATLOADER   https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
+146.112.61.107          Intel::ADDR   VMWARE_CARBON_BLACK   F   BATLOADER   https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 194.67.110.215          Intel::ADDR       VMWARE_CARBON_BLACK       F          BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 194.67.119.190          Intel::ADDR       VMWARE_CARBON_BLACK       F          BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 194.135.24.245          Intel::ADDR       VMWARE_CARBON_BLACK       F          BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
@@ -553,23 +553,16 @@ https://t.me/cheaptrains                                             Intel::URL 
 https://mastodon.social/@ffolegg94                                   Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://advanced-ip-scanner.com.vuxuancuong.com                      Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://advanced-ip-scanner.website/en/                              Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-https://onedrive.live.com/download?cid=E8A357DC635F5F11&resid=E8A357DC635F5F11!552&authkey=AN-tOu0N0SGFnpg    Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+https://onedrive.live.com/download?cid=E8A357DC635F5F11&resid=E8A357DC635F5F11!552&authkey=AN-tOu0N0SGFnpg     Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://zambeziz.com/jquery-3.3.1.min.js                             Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253 
-https://gofile.io/d/7KbRYr                                           Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-https://gofile.io/d/nycrb4                                           Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-https://store1.gofile.io/download/27a73fd4-a939-4a05-9c0e-54c0c5dfef3d/1.exe   Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+https://gofile.io/d/7KbRYr                                           Intel::URL          CERT-UA                F    SOMNIA      https://cert.gov.ua/article/2724253
+https://gofile.io/d/nycrb4                                           Intel::URL          CERT-UA                F    SOMNIA      https://cert.gov.ua/article/2724253
+https://store1.gofile.io/download/27a73fd4-a939-4a05-9c0e-54c0c5dfef3d/1.exe   Intel::URL          CERT-UA      F    SOMNIA      https://cert.gov.ua/article/2724253
 https://store3.gofile.io/download/939fad81-10ba-438e-b396-c2f42f209ab0/netscan_portable.7z      Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://store8.gofile.io/download/43571707-464b-40c8-bf5e-2d9e07c554b8/Somnia_07_08_22_with_FunnySomnia.exe    Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-https://store8.gofile.io/download/8b9f91c9-b770-4ed5-b60f-ec1dd5ca8b43/1.jpeg     Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+https://store8.gofile.io/download/8b9f91c9-b770-4ed5-b60f-ec1dd5ca8b43/1.jpeg     Intel::URL          CERT-UA   F    SOMNIA      https://cert.gov.ua/article/2724253
 https://advanced-ip-scanner.click/en/                                Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://advanced-ip-scanner.site/en/                                 Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253 
 https://www.dropbox.com/s/26gri1ashi4rydb/Ip_scanner.zip?dl=1        Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 http://185.96.163.102:80                                             Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 franygreat@outlook.com                                               Intel::EMAIL        CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-
-
-
-
-
-
-
