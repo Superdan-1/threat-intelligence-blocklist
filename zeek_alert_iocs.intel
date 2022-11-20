@@ -356,4 +356,7 @@ whitecaselp.com              Intel::DOMAIN       ABNORMAL_SECURITY    F   CRIMSO
 whitecaseukp.com             Intel::DOMAIN       ABNORMAL_SECURITY    F   CRIMSON_KINGSNAKE    https://abnormalsecurity.com/blog/crimson-kingsnake-bec-group-attacks
 whitescases.net              Intel::DOMAIN       ABNORMAL_SECURITY    F   CRIMSON_KINGSNAKE    https://abnormalsecurity.com/blog/crimson-kingsnake-bec-group-attacks
 whitneasellp.co              Intel::DOMAIN       ABNORMAL_SECURITY    F   CRIMSON_KINGSNAKE    https://abnormalsecurity.com/blog/crimson-kingsnake-bec-group-attacks
-
+pinkgoat.com                 Intel::DOMAIN       KASPERSKY_SECURELIST    F   DTRACK   https://securelist.com/dtrack-targeting-europe-latin-america/107798/
+purewatertokyo.com           Intel::DOMAIN       KASPERSKY_SECURELIST    F   DTRACK   https://securelist.com/dtrack-targeting-europe-latin-america/107798/
+purplebear.com               Intel::DOMAIN       KASPERSKY_SECURELIST    F   DTRACK   https://securelist.com/dtrack-targeting-europe-latin-america/107798/
+salmonrabbit.com             Intel::DOMAIN       KASPERSKY_SECURELIST    F   DTRACK   https://securelist.com/dtrack-targeting-europe-latin-america/107798/
