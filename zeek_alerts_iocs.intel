@@ -89,37 +89,37 @@ b8f294bb3793eee72ab2d2bc436b18fe1c111704405688b43b686f83f0f0b8d0   Intel::FILE_H
 1b277b89ee84148bd5beebcbdb69b9e5f82f3ce4d1dec4b459217323aec7fd60   Intel::FILE_HASH   VMWARE_CARBON_BLACK      F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 54e844b5ae4a056ca8df4ca7299249c4910374d64261c83ac55e5fdf1b59f01d   Intel::FILE_HASH   VMWARE_CARBON_BLACK       F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 1daef45653406893cf3f53e0b80f4aa9c83d6a0e8288bd4c5f7e0318096621a0   Intel::FILE_HASH   VMWARE_CARBON_BLACK       F           BATLOADER    https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
-185.217.1.23
-159.223.236.110
-193.29.13.159
-193.29.13.216
-193.29.13.170
-190.123.44.126
-190.123.44.130
-185.125.206.218
-95.179.161.101
-69.46.15.147
-87.247.152.249
-185.107.80.78
-177.54.145.139
-109.248.149.137
-109.170.6.150
-95.211.185.11
-176.77.112.74
-193.105.7.122
-5.62.43.252
-45.67.229.148
-78.128.112.217
-45.153.241.167
-78.128.112.217
-209.250.236.75
-139.162.191.118
-5.196.124.228
-93.184.220.29
-185.16.40.67
-45.133.216.39
-45.87.154.208
-213.109.192.116
+185.217.1.23      Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+159.223.236.110   Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+193.29.13.159     Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+193.29.13.216     Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+193.29.13.170     Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+190.123.44.126    Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+190.123.44.130    Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+185.125.206.218   Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+95.179.161.101    Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+69.46.15.147      Intel::ADDR      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+87.247.152.249    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+185.107.80.78     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+177.54.145.139    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+109.248.149.137   Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+109.170.6.150     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+95.211.185.11     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+176.77.112.74     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+193.105.7.122     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+5.62.43.252       Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+45.67.229.148     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+78.128.112.217    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+45.153.241.167    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+78.128.112.217    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+209.250.236.75    Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+139.162.191.118   Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+5.196.124.228     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+93.184.220.29     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+185.16.40.67      Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+45.133.216.39     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+45.87.154.208     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+213.109.192.116   Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 0b06b000f0dd8d89e7300fa333cba33f90aa8e62     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 31c0be28f46b86670c3d08d3c4f6ee8793cabbbe     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 48bf9b838ecb90b8389a0c50b301acc32b44b53e     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
