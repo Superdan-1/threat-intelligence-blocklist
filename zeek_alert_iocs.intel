@@ -523,9 +523,30 @@ fbed7e92caefbd74437d0970921bfd7cb724c98c90efd9b6d0c2ac377751c9e5     Intel::FILE
 209.222.101.65                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 139.60.161.52                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 193.43.146.42                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+139.60.161.165                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+139.60.161.167                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+139.60.161.213                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+139.60.161.47                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+139.60.161.63                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+185.170.144.217                                                      Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+185.96.163.102                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+193.43.146.39                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+5.252.22.96                                                          Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+94.232.41.105                                                        Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+95.217.244.218                                                       Intel::ADDR         CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 vuxuancuong.com                                                      Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 advanced-ip-scanner.com.vuxuancuong.com                              Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/272425
 zambeziz.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+agrikoz.com                                                          Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+aluaadin.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+arminext.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253                                                      
+benokij.com                                                          Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+fudupdate.com                                                        Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253 
+sinergil.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+softloadup.com                                                       Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+survefuz.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+vinergil.com                                                         Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
+zbignef.com                                                          Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 advanced-ip-scanner.click                                            Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 advanced-ip-scanner.site                                             Intel::DOMAIN       CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253             
 https://t.me/cheaptrains                                             Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
@@ -543,8 +564,7 @@ https://store8.gofile.io/download/8b9f91c9-b770-4ed5-b60f-ec1dd5ca8b43/1.jpeg   
 https://advanced-ip-scanner.click/en/                                Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 https://advanced-ip-scanner.site/en/                                 Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253 
 https://www.dropbox.com/s/26gri1ashi4rydb/Ip_scanner.zip?dl=1        Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
-
-
+http://185.96.163.102:80                                             Intel::URL          CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 franygreat@outlook.com                                               Intel::EMAIL        CERT-UA               F    SOMNIA      https://cert.gov.ua/article/2724253
 
 
@@ -552,28 +572,6 @@ franygreat@outlook.com                                               Intel::EMAI
 
 
 
-hXXp://185[.]96.163.102:80
-agrikoz[.]com
-aluaadin[.]com
-arminext[.]com
-benokij[.]com
-fudupdate[.]com 
-sinergil[.]com
-softloadup[.]com
-survefuz[.]com
-vinergil[.]com
-zbignef[.]com
-139[.]60.161.165
-139[.]60.161.167
-139[.]60.161.213
-139[.]60.161.47
-139[.]60.161.63
-185[.]170.144.217
-185[.]96.163.102
-193[.]43.146.39
-5[.]252.22.96
-94[.]232.41.105
-95[.]217.244.218
 
 
 
