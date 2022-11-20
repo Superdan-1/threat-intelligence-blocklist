@@ -220,5 +220,14 @@ af7a6693453a055f544ef56eeea407b2a472d78a     Intel::FILE_HASH      FIN7       SE
 4aa3e5512c1d148226e64e33cc8c1695bdcda7d6     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 1131bb590d2d1bb60bac1bb9bcf45284469ea672     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 671e195ad9c38bbb4985b8643f4de091c47cdde7     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
+154.56.0.221      Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+64.44.101.250     Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+103.175.16.117    Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+45.153.243.142    Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+50.16.62.87       Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+3.85.198.66       Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+11bce4f2dcdc2c1992fddefb109e3ddad384b5171786a1daaddadc83be25f355    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+cadd3f05b496ef137566c90c8fee3905ff13e8bda086b2f0d3cf7512092b541c    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+123f96ff0a583d507439f79033ba4f5aa28cf43c5f2c093ac2445aaebdcfd31b    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 
 
