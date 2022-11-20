@@ -22,7 +22,7 @@ associated with malicious activity. This list is intended to be used with DNS si
 
 # Author: Daniel Braund
 
-# Last Updated: 18th November 2022
+# Last Updated: 20th November 2022
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -48,6 +48,26 @@ associated with malicious activity. This list is intended to be used with DNS si
 0.0.0.0   fuvataren.com
 0.0.0.0   cevogesu.com
 0.0.0.0   titojukus.com
+0.0.0.0   conlfex.com
+0.0.0.0   avrobio.co
+0.0.0.0   elemblo.com
+0.0.0.0   phxmfg.co
+0.0.0.0   modernmeadow.co
+0.0.0.0   lsoplexis.com
+0.0.0.0   craneveyor.us
+0.0.0.0   faustel.us
+0.0.0.0   lagauge.us
+0.0.0.0   missionbio.us
+0.0.0.0   richllndmetals.com
+0.0.0.0   kvnational.us
+0.0.0.0   prmflltration.com
+0.0.0.0   brightlnsight.co
+0.0.0.0   belcolnd.com
+0.0.0.0   awsblopharma.com
+0.0.0.0   amevida.us
+0.0.0.0   revergy.us
+0.0.0.0   al-ghurair.us
+0.0.0.0   opontia.us
 # Crimson Kingsnake 
 0.0.0.0   activedebtrecoveryeo.com
 0.0.0.0   allanovarry.com
