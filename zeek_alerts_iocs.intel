@@ -120,10 +120,10 @@ b8f294bb3793eee72ab2d2bc436b18fe1c111704405688b43b686f83f0f0b8d0   Intel::FILE_H
 45.133.216.39     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 45.87.154.208     Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 213.109.192.116   Intel::ADDR      FIN7        SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
-0b06b000f0dd8d89e7300fa333cba33f90aa8e62     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
-31c0be28f46b86670c3d08d3c4f6ee8793cabbbe     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
-48bf9b838ecb90b8389a0c50b301acc32b44b53e     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
-5ebacb20f62fae0dd610d874583d13fac5024309     Intel::FILE_HASH      QAKBOT       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
+0b06b000f0dd8d89e7300fa333cba33f90aa8e62     Intel::FILE_HASH      SENTINEL_LABS    QAKBOT    F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+31c0be28f46b86670c3d08d3c4f6ee8793cabbbe     Intel::FILE_HASH      SENTINEL_LABS    QAKBOT    F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+48bf9b838ecb90b8389a0c50b301acc32b44b53e     Intel::FILE_HASH      SENTINEL_LABS    QAKBOT    F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+5ebacb20f62fae0dd610d874583d13fac5024309     Intel::FILE_HASH      SENTINEL_LABS    QAKBOT    F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 f48b84a91e90ad96f652e777c05e41157eb0c666     Intel::FILE_HASH      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 2b93cc96825ec27525b9caa918073387eea13538     Intel::FILE_HASH      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 fd6277f31d7a40d8ece67130f6b0dd69bb58db82     Intel::FILE_HASH      BLACK_BASTA       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
@@ -220,12 +220,32 @@ af7a6693453a055f544ef56eeea407b2a472d78a     Intel::FILE_HASH      FIN7       SE
 4aa3e5512c1d148226e64e33cc8c1695bdcda7d6     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 1131bb590d2d1bb60bac1bb9bcf45284469ea672     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
 671e195ad9c38bbb4985b8643f4de091c47cdde7     Intel::FILE_HASH      FIN7       SENTINEL_LABS     F     https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/ 
-154.56.0.221      Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+154.56.0.221      Intel::ADDR         DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 64.44.101.250     Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 103.175.16.117    Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 45.153.243.142    Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 50.16.62.87       Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 3.85.198.66       Intel::ADDR     BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
+conlfex.com       Intel::DOMAIN   BUBLEM
+avrobio.co
+elemblo.com
+phxmfg.co
+modernmeadow.co
+lsoplexis.com
+craneveyor.us
+faustel.us
+lagauge.us
+missionbio.us
+richllndmetals.com
+kvnational.us
+prmflltration.com
+brightlnsight.co
+belcolnd.com
+awsblopharma.com
+amevida.us
+revergy.us
+al-ghurair.us
+opontia.us
 11bce4f2dcdc2c1992fddefb109e3ddad384b5171786a1daaddadc83be25f355    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 cadd3f05b496ef137566c90c8fee3905ff13e8bda086b2f0d3cf7512092b541c    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
 123f96ff0a583d507439f79033ba4f5aa28cf43c5f2c093ac2445aaebdcfd31b    Intel::FILE_HASH    BUMBLEBEE     DFIR_REPORT   F   https://thedfirreport.com/2022/09/26/bumblebee-round-two/
