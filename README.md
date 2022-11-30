@@ -2,7 +2,7 @@
 
 
 ## About  ℹ️
-This block list contains domains gathered from open-source threat intelligence reporting which have been identified as being malicious. This includes domains which have been identified as being used for phishing campaigns, for hosting malware, botnets, command-and-control (C2) or other malicious activity. It is intended that this block list is used with DNS sinkholes such as the Pi-Hole though it can also be used with a computers local HOSTS file. All data within this blocked is characterised as TLP:Clear and no domains from closed sources or commercial  threat intelligence platforms are included.  This list will be periodically updated but I can make no guarantee on how frequently this will be happen. Contributions to the block list are welcome as long as the domains are gathered from reputable sources and can be assigned to a specific threat actor group or malware variant. 
+This block list contains domains gathered from open-source threat intelligence reporting which have been identified as being malicious. This includes domains which have been identified as being used for phishing campaigns, for hosting malware, botnets, command-and-control (C2) or other malicious activity. It is intended that this block list is used with DNS sinkholes such as the Pi-Hole though it can also be used with a computers local HOSTS file. All data within this blocked is characterised as TLP:Clear and no domains from closed sources or commercial  threat intelligence platforms are included.  This list will be periodically updated but I can make no guarantee on how frequently this will be happen. Contributions to the block list are welcome as long as the domains are gathered from reputable sources to minimise false positives. 
 
 <br>
 
