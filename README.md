@@ -22,16 +22,16 @@ To add the block list to your P-Hole access the 'Adlists' menu from the Pi-Hole'
 
 ### Windows Host File 
 
-To add the block list to a Windows 10 or 11 machine access the 'Start Menu' and enter 'Notepad'. Once Windows finds the Notepad application right click on this and select 'Run as Administrator'.  From the Notepad application select 'File' from the menu and navigate to the file path ```C:\Windows\System32\drivers\etc```. Select the option to select 'All Files (*.*)' from the bottom right hand corner of the Notepad application. Find the file named 'hosts' and click open. Paste in the text from the 'blocked_domains' list and click 'Save'. To update the blocklist in the future repeat the same process. 
+To add the block list to a Windows 10 or 11 machine access the 'Start Menu' and enter 'Notepad'. Once Windows finds the Notepad application right click on this and select 'Run as Administrator'.  From the Notepad application select 'File' from the menu and navigate to the file path ```C:\Windows\System32\drivers\etc```. Select the option to select 'All Files (*.*)' from the bottom right hand corner of the Notepad application. Find the file named 'hosts' and click open. Paste in the text from the 'blocked_domains' (https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/blocked_domains) list and click 'Save'. To update the blocklist in the future repeat the same process. 
 
 ### MacOS Host File 
 
-To add the blocklist to MacOS open the command line terminal with administrative privileges. Enter in the command ```sudo nano etc/hosts``` to open the local hosts file. Paste in the domains from the 'blocked_domains' list. Save and exit by entering the keyboard shortcut ```CTRL+X```. To update the blocklist in the future repeat the same process. 
+To add the blocklist to MacOS open the command line terminal with administrative privileges. Enter in the command ```sudo nano etc/hosts``` to open the local hosts file. Paste in the domains from the 'blocked_domains' (https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/blocked_domains) list. Save and exit by entering the keyboard shortcut ```CTRL+X```. To update the blocklist in the future repeat the same process. 
 
 
 ### Linux Host File 
 
-To add the blocklist to a Debian based Linux distribution open a command line terminal with administrative privileges. Enter in the command ```sudo nano etc/hosts``` to open the local hosts file. Paste in the domains from the 'blocked_domains' list. Save and exit by entering the keyboard shortcut ```CTRL+X```. To update the blocklist in the future repeat the same process.
+To add the blocklist to a Debian based Linux distribution open a command line terminal with administrative privileges. Enter in the command ```sudo nano etc/hosts``` to open the local hosts file. Paste in the domains from the 'blocked_domains' (https://github.com/Superdan-1/threat-intelligence-blocklist/blob/main/blocked_domains) list. Save and exit by entering the keyboard shortcut ```CTRL+X```. To update the blocklist in the future repeat the same process.
 
 <br>
 
