@@ -22,7 +22,7 @@
 
 # Author: Daniel Braund
 
-# Last Updated: 30th November 2022, 17:59 GMT
+# Last Updated: 27th December 2022, 14:13 GMT
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -184,6 +184,24 @@
 0.0.0.0   whitecaseukp.com
 0.0.0.0   whitescases.net
 0.0.0.0   whitneasellp.co
+# ---- Cuba Ransomware ----
+0.0.0.0   babbedidndu.ru
+0.0.0.0   fabickng.ru
+0.0.0.0   facabeand.com
+0.0.0.0   witorophron.com
+0.0.0.0   tycahatit.ru
+0.0.0.0   torsketronand.ru
+0.0.0.0   toftoflethens.com
+0.0.0.0   tinheranter.com
+0.0.0.0   thehentoftbet.ru
+0.0.0.0   tandugolastsp.com
+0.0.0.0   johntotrepwron.com
+0.0.0.0   leftthenhispar.ru
+0.0.0.0   nagirlstylast.com
+0.0.0.0   nastylgilast.com
+0.0.0.0   ningwitjohnno.ru
+0.0.0.0   otinrofha.ru
+0.0.0.0   reninparwil.com
 # ---- DTrack ----
 0.0.0.0   pinkgoat.com
 0.0.0.0   purewatertokyo.com
@@ -202,6 +220,75 @@
 0.0.0.0   asd.s7610rir.pw
 # ---- IceXLoader ----
 0.0.0.0   filifilm.com.br
+# ---- IcedID -----
+0.0.0.0   estrabornhot.com
+0.0.0.0   klepdrafooip.com
+0.0.0.0   trbiriumpa.com
+0.0.0.0   lilsakainrot.com
+0.0.0.0   cryptobrowser.top
+0.0.0.0   dlscordcom.top
+0.0.0.0   fortlnet.top
+0.0.0.0   irs-forms.top
+0.0.0.0   irsform.top
+0.0.0.0   irsforms.top
+0.0.0.0   irsgov.top
+0.0.0.0   llbreoffice.top
+0.0.0.0   llbreofflce.top
+0.0.0.0   microsoft-teams.top
+0.0.0.0   postbox-inc.top
+0.0.0.0   sandboxie-plus.top
+0.0.0.0   sandboxieplus.top
+0.0.0.0   thunderbird.top
+0.0.0.0   thunderblrd.top
+0.0.0.0   webeex.top
+0.0.0.0   www-adobe.top
+0.0.0.0   www-anydesk.top
+0.0.0.0   www-basecamp.top
+0.0.0.0   www-brave.top
+0.0.0.0   www-chase.top
+0.0.0.0   www-citrix.top
+0.0.0.0   www-discord.top
+0.0.0.0   www-discordcom.top
+0.0.0.0   www-dlscord.top
+0.0.0.0   www-docker.top
+0.0.0.0   www-fortinet.top
+0.0.0.0   www-fortlnet.top
+0.0.0.0   www-goto.top
+0.0.0.0   www-irs-forms.top
+0.0.0.0   www-irs.top
+0.0.0.0   www-libreofflce.top
+0.0.0.0   www-obsproject.top
+0.0.0.0   www-realvnc.top
+0.0.0.0   www-ringcentral.top
+0.0.0.0   www-slack.top
+0.0.0.0   www-teamviewer.top
+0.0.0.0   www-teamvlewer.top
+0.0.0.0   www-thunderblrd.top
+0.0.0.0   www-torproject.top
+0.0.0.0   www-vmware.top
+0.0.0.0   www-webex.top
+0.0.0.0   www-whatsapp.top
+0.0.0.0   wwwadobe.top
+0.0.0.0   wwwanydesk.top
+0.0.0.0   wwwchase.top
+0.0.0.0   wwwdiscordcom.top
+0.0.0.0   wwwebex.top
+0.0.0.0   wwwfortinet.top
+0.0.0.0   wwwfortlnet.top
+0.0.0.0   wwwslack.top
+0.0.0.0   wwwteamviewer.top
+0.0.0.0   wwwvmware.top
+0.0.0.0   wwww-adobe.top
+0.0.0.0   wwww-anydesk.top
+0.0.0.0   wwww-discord.top
+0.0.0.0   wwww-discordcom.top
+0.0.0.0   wwww-dlscord.top
+0.0.0.0   wwww-dlscordcom.top
+0.0.0.0   wwww-irs-forms.top
+0.0.0.0   wwwwadobe.top
+0.0.0.0   wwwwanydesk.top
+0.0.0.0   wwwwebex.top
+0.0.0.0   wwwwslack.top
 # ---- Iranian APT ----
 0.0.0.0   tunnel.us.ngrok.com
 0.0.0.0   korgn.su.lennut.com
@@ -216,6 +303,18 @@
 0.0.0.0   actsred.site
 # ---- PrivateLoader ----
 0.0.0.0   wfsdragon.ru
+# ---- RedDelta ----
+0.0.0.0   microsite-manager.com
+0.0.0.0   mashupdatabase.com
+0.0.0.0   blogdirve.com
+# ---- RisePro Stealer ----
+0.0.0.0   neo-files.com
+0.0.0.0   gamefilescript.com
+# ---- RomCom ----
+0.0.0.0   combinedresidency.org
+0.0.0.0   optasko.com
+0.0.0.0   4qzm.com
+0.0.0.0   notfiled.com
 # ---- SocGholish ----
 0.0.0.0   course.netpickstrading.com
 0.0.0.0   shipwrecks.ggentile.com
@@ -39743,3 +39842,5 @@
 0.0.0.0   mail-accounts-my-gmail.com
 0.0.0.0   yahoo-oauth-accounts.com
 0.0.0.0   mysecurity-goglemail.com
+# ---- Zero Bot ----
+0.0.0.0   zero.sudolite.ml
