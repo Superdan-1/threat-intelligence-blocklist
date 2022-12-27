@@ -41,8 +41,4 @@ To check that the blocklist is working as intended visit the non-malicious and h
 
 <br>
 
-# Zeek Intelligence Framework Feed
-
-The intelligence feed contains indicators of compromise (IoCs) that have been extracted from open-source reporting. The feed currently contains intelligence items covering malicious IP addressess, domains, URLs, email addresses, and file hashes. The intelligence feed is intended to be used with Zeeks Intelligence Framework and will be updated periodically though less frequently then the Threat Intelligence Blocklist. 
-
 
