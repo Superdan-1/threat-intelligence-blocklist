@@ -22,7 +22,7 @@
 
 # Author: Daniel Braund
 
-# Last Updated: 27th December 2022, 14:13 GMT
+# Last Updated: 28th December 2022, 14:44 GMT
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -34,6 +34,14 @@
 # --- Unknown Threat Actor ---
 0.0.0.0   matrizauto.net
 0.0.0.0   tescogiftcards.tk
+0.0.0.0   revolknfts.netlify.app
+# ---- Asbit -----
+0.0.0.0   asbit.cn
+0.0.0.0   mitm.work
+0.0.0.0   rdlite.com
+0.0.0.0   fmt.ink
+0.0.0.0   def.cab
+0.0.0.0   rfb.ink
 # ---- Aurora ----
 0.0.0.0   mividajugosa.com
 0.0.0.0   winsofts.cloud
@@ -53,6 +61,69 @@
 0.0.0.0   teenieshopus.com
 0.0.0.0   liversofter.com
 0.0.0.0   zoomyclouds.com
+# ---- BazarCall ----
+0.0.0.0   cslogin.xyz
+0.0.0.0   remote.bankonitusa.com
+0.0.0.0   nhelp.live
+0.0.0.0   help.applebyco.com
+0.0.0.0   symetryk.com
+0.0.0.0   melogin.xyz
+0.0.0.0   vfix.live
+0.0.0.0   caresupport.live
+0.0.0.0   asistpc.com
+0.0.0.0   supportxxx.xyz
+0.0.0.0   supportlogin.xyz
+0.0.0.0   carya.help
+0.0.0.0   hide01.xyz
+0.0.0.0   deskhelp.me
+0.0.0.0   mscare.live
+0.0.0.0   support.artemys.com
+0.0.0.0   securemail.arescrow.com
+0.0.0.0   sc.admt.com
+0.0.0.0   asupport.help
+0.0.0.0   onlogin01.xyz
+0.0.0.0   support.marketsic.com
+0.0.0.0   loginonly.xyz
+0.0.0.0   support.trade-center.net
+0.0.0.0   adasmarket.to
+0.0.0.0   deskhelpme.us
+0.0.0.0   desksupport.us
+0.0.0.0   deskback.xyz
+0.0.0.0   stemsupport.me
+0.0.0.0   melogin101.fun
+0.0.0.0   control.helpmis.com
+0.0.0.0   hide17.xyz
+0.0.0.0   helpdeskcomputers.com.au
+0.0.0.0   support.itsire.com
+0.0.0.0   hide03.xyz
+0.0.0.0   caresupport.cc
+0.0.0.0   mwindows.live
+0.0.0.0   teleassistenza.argosoft.it
+0.0.0.0   login101.xyz
+0.0.0.0   pifhelp.com
+0.0.0.0   asupport.to
+0.0.0.0   helpservice.us
+0.0.0.0   clogin101.fun
+0.0.0.0   csupportback.xyz
+0.0.0.0   sc2.in-sightsecurity.com
+0.0.0.0   ssiremote.com
+0.0.0.0   pclogin.xyz
+0.0.0.0   loginuk.xyz
+0.0.0.0   login02.xyz
+0.0.0.0   qback.xyz
+0.0.0.0   rlogin.xyz
+0.0.0.0   support.dtslvinc.com
+0.0.0.0   support247.pro
+0.0.0.0   123.serviciopr.com
+0.0.0.0   rsupport.me
+0.0.0.0   control.ecomation.nl
+0.0.0.0   support.fundremote.net
+0.0.0.0   303help.me
+0.0.0.0   my.aspire-it.net
+0.0.0.0   support.integrabeautyinc.com
+0.0.0.0   pcsremotesupport.com
+0.0.0.0   support247.pro
+0.0.0.0   asupport.help
 # ---- Black Basta ----
 0.0.0.0   groundworkseasy.com
 0.0.0.0   purestealconstruction.com
@@ -39791,6 +39862,10 @@
 0.0.0.0   zzzgf.cn
 0.0.0.0   zzzlk.cn
 0.0.0.0   zzzwv.cn
+# ---- Nitrokod ----
+0.0.0.0   nitrokod.com
+0.0.0.0   intelserviceupdate.com
+0.0.0.0   nvidiacenter.com
 # ---- Oakbot ----
 0.0.0.0   jesofidiwi.com
 0.0.0.0   dimingol.com
