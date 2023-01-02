@@ -22,7 +22,7 @@
 
 # Author: Daniel Braund
 
-# Last Updated: 28th December 2022, 14:44 GMT
+# Last Updated: 2nd January 2023, 10:29 GMT
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -39871,6 +39871,65 @@
 0.0.0.0   dimingol.com
 0.0.0.0   tevokaxol.com
 0.0.0.0   vopaxafi.com
+# ---- Vermux ----
+0.0.0.0   autodeskst.com
+0.0.0.0   code.vlsualstudio.com
+0.0.0.0   thunder-blrd.com
+0.0.0.0   ever-note.net
+0.0.0.0   tor-project.pro
+0.0.0.0   tor-project.xyz
+0.0.0.0   trorlink.com
+0.0.0.0   slacks.life
+0.0.0.0   apple.com-login.org
+0.0.0.0   malwraebytes.com
+0.0.0.0   alwarebytes-download.org
+0.0.0.0   nicehash-miner.com
+0.0.0.0   metatrader5bot.com
+0.0.0.0   tnadingview.com
+0.0.0.0   getpillonline.com
+0.0.0.0   msi.afterburrner.com
+0.0.0.0   utorrem.com
+0.0.0.0   utotzjlw.shop
+0.0.0.0   utonsbla.shop
+0.0.0.0   utoisjf.shop
+0.0.0.0   gfrce.nioiviidlia.site
+0.0.0.0   gfrce.niviiildia.site
+0.0.0.0   gfrce.nvidie.site
+0.0.0.0   gfrce.nlvldlia.site
+0.0.0.0   gfrce.niumvidia.site
+0.0.0.0   gfrce.nividdia.site
+0.0.0.0   gfrce.nvliadia.site
+0.0.0.0   gfrce.nviidliaa.site
+0.0.0.0   gfrce.nividia.site
+0.0.0.0   gfrce.ninnvidiia.site
+0.0.0.0   gifese.niqewvideia.site
+0.0.0.0   gifrse.nioowqevid.site
+0.0.0.0   goforse.nivoiuqweda.site
+0.0.0.0   frce.nvilldia.site
+0.0.0.0   n-vidia-download.website
+0.0.0.0   nvidla.eksplierense.site
+0.0.0.0   nvdla.expleiwrqse.site
+0.0.0.0   atilk.com
+0.0.0.0   alaskafurnaces.com
+0.0.0.0   addictionrecoverymarketing.com
+0.0.0.0   blendem3d.org
+0.0.0.0   blender-3d.gecouae.com
+0.0.0.0   blendernim.com
+0.0.0.0   blendernip.com
+0.0.0.0   blendero.org
+0.0.0.0   blenderseb.com
+0.0.0.0   blendertew.com
+0.0.0.0   blendervas.com
+0.0.0.0   blendres.us
+0.0.0.0   blenndree3d.org
+0.0.0.0   bllender.art
+0.0.0.0   pierrelanscapes.com
+0.0.0.0   grammarly.harpsympitar.com
+0.0.0.0   grammalry.org
+0.0.0.0   grammartly.org
+0.0.0.0   gnammarly.com
+0.0.0.0   gramm-arly.com
+0.0.0.0   grarnrnarly.com
 # ---- Void Balaur ----
 0.0.0.0   my-mail-account-gmail.com
 0.0.0.0   security-myaccount-goglemail.com
