@@ -22,7 +22,7 @@
 
 # Author: Daniel Braund
 
-# Last Updated: 10th January 2023, 18:10 GMT
+# Last Updated: 10th January 2023, 23:03 GMT
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -31,12 +31,17 @@
 0.0.0.0   example.com
 
 # **********************************************************************************************************************************************
+
 # --- Unknown Threat Actor ---
 0.0.0.0   matrizauto.net
 0.0.0.0   tescogiftcards.tk
 0.0.0.0   revolknfts.netlify.app
 0.0.0.0   pokemon-go.io
 0.0.0.0   beta-pokemoncards.io
+#----- Andromeda ----
+0.0.0.0   suckmycocklameavindustry.in
+0.0.0.0   yelprope.cloudns.cl
+0.0.0.0   anam0rph.su
 # ---- Asbit -----
 0.0.0.0   asbit.cn
 0.0.0.0   mitm.work
@@ -395,6 +400,8 @@
 # ---- Iranian APT ----
 0.0.0.0   tunnel.us.ngrok.com
 0.0.0.0   korgn.su.lennut.com
+# ----- Kopiluwak ----
+0.0.0.0   manager.surro.am
 # ---- Magecart ----
 0.0.0.0   saylor2xbtc.com
 0.0.0.0   elon2xmusk.com
@@ -39910,6 +39917,64 @@
 0.0.0.0   dimingol.com
 0.0.0.0   tevokaxol.com
 0.0.0.0   vopaxafi.com
+# ---- RedLine Stealer ----
+0.0.0.0   santaanarealtor.icu
+0.0.0.0   tempuri.org
+0.0.0.0   aliatabako.xyz
+0.0.0.0   allsofts.org
+0.0.0.0   allsoftware.cloud
+0.0.0.0   appshigha.com
+0.0.0.0   artstation.download
+0.0.0.0   aspelads.com
+0.0.0.0   autosoftware.pw
+0.0.0.0   bcware.netlify.app
+0.0.0.0   bit-lime.com
+0.0.0.0   blacksoftware.website
+0.0.0.0   botmastr.xyz
+0.0.0.0   crack3d.org
+0.0.0.0   cracked.guru
+0.0.0.0   cracksoftware.site
+0.0.0.0   cracksoftware.space
+0.0.0.0   eazzysoft.com
+0.0.0.0   evilsoftware.org
+0.0.0.0   forcecheats.pro
+0.0.0.0   free-crack-soft.com
+0.0.0.0   freesoftwar.com
+0.0.0.0   free-warez.site
+0.0.0.0   goldsoftware.org
+0.0.0.0   hacksoftware.fun
+0.0.0.0   icreativecloudpro.com
+0.0.0.0   klaytjapan.com
+0.0.0.0   newmeta.makelog.org
+0.0.0.0   popularwords.top
+0.0.0.0   pushme.us.in
+0.0.0.0   rellcracks.com
+0.0.0.0   rockstaragency.tech
+0.0.0.0   rootsweb.pw
+0.0.0.0   simplysoft.org
+0.0.0.0   skysoftwareapp.com
+0.0.0.0   softland-off.com
+0.0.0.0   softload.tech
+0.0.0.0   softwarecloud.space
+0.0.0.0   softwaregametrust.com
+0.0.0.0   spartanlivestyle.xyz
+0.0.0.0   tapucan.xyz
+0.0.0.0   urbansoftlab.com
+0.0.0.0   wh1tesoftware.me
+0.0.0.0   whitegames.wepudas.guru
+0.0.0.0   whitesoftapp.com
+0.0.0.0   www.free-warez.site
+0.0.0.0   www.kokoasoft.com
+0.0.0.0   www.softportal.online
+0.0.0.0   xoralessh.xyz
+0.0.0.0   youtube.firstmillion.click
+0.0.0.0   auth-scotiaonline-users.com
+0.0.0.0   gutschrift-beantragen.com
+0.0.0.0   smtp.c9vhnwpuec.xyz
+0.0.0.0   sonalact.com
+0.0.0.0   san.tan.der.personalmifirma.com
+0.0.0.0   uniswap.casa
+0.0.0.0   postcanada-attempteddelivery3.co
 # ---- Ursnif ----
 0.0.0.0   denterdrigx.com
 0.0.0.0   superliner.top
@@ -39976,6 +40041,8 @@
 0.0.0.0   gnammarly.com
 0.0.0.0   gramm-arly.com
 0.0.0.0   grarnrnarly.com
+# ---- Vidar ----
+0.0.0.0   gilimp.org
 # ---- Void Balaur ----
 0.0.0.0   my-mail-account-gmail.com
 0.0.0.0   security-myaccount-goglemail.com
