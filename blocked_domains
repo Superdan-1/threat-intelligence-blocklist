@@ -22,7 +22,7 @@
 
 # Author: Daniel Braund
 
-# Last Updated: 2nd January 2023, 10:29 GMT
+# Last Updated: 10th January 2023, 18:10 GMT
 
 # The latest version of this list may be fetched from: https://raw.githubusercontent.com/Superdan-1/threat-intelligence-blocklist/main/blocked_domains
 
@@ -35,6 +35,8 @@
 0.0.0.0   matrizauto.net
 0.0.0.0   tescogiftcards.tk
 0.0.0.0   revolknfts.netlify.app
+0.0.0.0   pokemon-go.io
+0.0.0.0   beta-pokemoncards.io
 # ---- Asbit -----
 0.0.0.0   asbit.cn
 0.0.0.0   mitm.work
@@ -130,6 +132,29 @@
 0.0.0.0   widisusez.com
 0.0.0.0   jardinoks.com
 0.0.0.0   courtlincolnglave.com
+# ---- Blind Eagle ----
+0.0.0.0   laminascol.linkpc.net
+0.0.0.0   systemwin.linkpc.net
+0.0.0.0   upxsystems.com
+# ---- BlueNoroff ----
+0.0.0.0   mufg.tokyo
+0.0.0.0   cloud.mufg.tokyo
+0.0.0.0   smbc-vc.com
+0.0.0.0   smbcgroup.us
+0.0.0.0   smbc.ltd
+0.0.0.0   beyondnextventures.co
+0.0.0.0   cloud.beyondnextventures.co
+0.0.0.0   vote.anobaka.info
+0.0.0.0   it.zvc.capital
+0.0.0.0   abf-cap.co
+0.0.0.0   angelbridge.capital
+0.0.0.0   mizuhogroup.us
+0.0.0.0   careers.mizuhogroup.us
+0.0.0.0   bankofamerica.tel
+0.0.0.0   bankofamerica.nyc
+0.0.0.0   bankofamerica.us.org
+0.0.0.0   tptf.us
+0.0.0.0   tptf.ltd
 # ---- Bumble Bee ----
 0.0.0.0   fuvataren.com
 0.0.0.0   cevogesu.com
@@ -284,6 +309,12 @@
 0.0.0.0   c.ymvh8w5.xyz
 # ---- Emotet ----
 0.0.0.0   bayernbadabum.com
+0.0.0.0   descontador.com.br
+0.0.0.0   www.elaboro.pl
+0.0.0.0   el-energiaki.gr
+0.0.0.0   drechslerstammtisch.de
+0.0.0.0   dhnconstrucciones.com.ar
+0.0.0.0   dilsrl.com
 # ---- Hive ----
 0.0.0.0.  asq.r77vh0.pw
 0.0.0.0   asq.d6shiiwz.pw
@@ -360,9 +391,14 @@
 0.0.0.0   wwwwanydesk.top
 0.0.0.0   wwwwebex.top
 0.0.0.0   wwwwslack.top
+0.0.0.0   explorezoom.com
 # ---- Iranian APT ----
 0.0.0.0   tunnel.us.ngrok.com
 0.0.0.0   korgn.su.lennut.com
+# ---- Magecart ----
+0.0.0.0   saylor2xbtc.com
+0.0.0.0   elon2xmusk.com
+0.0.0.0   2xdepp.com
 # ---- Magniber ----
 0.0.0.0   totwo.pw
 0.0.0.0   ittakes.fun
@@ -451,6 +487,9 @@
 0.0.0.0   zambeziz.com
 # ---- Sliver ----
 0.0.0.0   privacy-survey.org
+# ---- StrongPity ----
+0.0.0.0   intagrefedcircuitchip.com
+0.0.0.0   networksoftwaresegment.com
 # ---- Fangxiao ----
 0.0.0.0   002sen.cn
 0.0.0.0   003bty.cyou
@@ -39871,6 +39910,13 @@
 0.0.0.0   dimingol.com
 0.0.0.0   tevokaxol.com
 0.0.0.0   vopaxafi.com
+# ---- Ursnif ----
+0.0.0.0   denterdrigx.com
+0.0.0.0   superliner.top
+0.0.0.0   internetlines.in
+0.0.0.0   superstarts.top
+0.0.0.0   superlinez.top
+0.0.0.0   internetlined.com
 # ---- Vermux ----
 0.0.0.0   autodeskst.com
 0.0.0.0   code.vlsualstudio.com
